@@ -1,14 +1,14 @@
 # 2N3904 Distortion Pedal
 
-A single-transistor guitar distortion pedal built on breadboard, based on the 2N3904.
+A single-transistor guitar distortion pedal built on a breadboard, based on the 2N3904.
 
-![Breadboard Build](breadboard-build.jpg)
+![Breadboard Build](2n3904-breadboard-build.jpg)
 
 ## Overview
 This project is a simple analog distortion effect for electric guitar, built around a single 2N3904 transistor in a common-emitter clipping stage, with diode clipping at the output for additional tone shaping.
 
 ## Schematic
-![Schematic](schematic.png)
+![Schematic](2n3904-pedal-schematic.jpg)
 
 ## How It Works
 - **Input capacitor (47nF):** blocks DC and passes only the guitar signal
